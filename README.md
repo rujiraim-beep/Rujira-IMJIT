@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./your-banner.gif" alt="Banner" width="100%" />
   <h1>สวัสดีค่ะ [Rujira Imjit] 👋</h1>
-  <p>[ตำแหน่งหรือคำแนะนำตัวสั้นๆ]</p>
+  <p>[Email : rujira.im@ku.th]</p>
 </div>
 
 ---

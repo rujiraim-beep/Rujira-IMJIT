@@ -1,31 +1,17 @@
-# Rujira-IMJIT
-<!-- ส่วนแสดงภาพ GIF ด้านบนสุด -->
 <div align="center">
-  <img src="./your-banner.gif" alt="Profile Banner" width="100%" />
+  <img src="./your-banner.gif" alt="Banner" width="100%" />
+  <h1>สวัสดีค่ะ [Rujira Imjit] 👋</h1>
+  <p>[ตำแหน่งหรือคำแนะนำตัวสั้นๆ]</p>
 </div>
 
-<h1 align="center">สวัสดีครับ ผม [ชื่อของคุณ] 👋</h1>
-<h3 align="center">นักพัฒนาซอฟต์แวร์ | [ตำแหน่งหรือความสนใจหลักของคุณ]</h3>
-
 ---
 
-### 🚀 เกี่ยวกับผม (About Me)
-- 🔭 ปัจจุบันกำลังพัฒนาโปรเจกต์ **[ชื่อโปรเจกต์]**
-- 🌱 กำลังศึกษาเพิ่มเติมเกี่ยวกับ **[เทคโนโลยีหรือภาษาที่กำลังเรียน]**
-- 💬 ถามผมได้เรื่อง **[หัวข้อที่คุณถนัด เช่น React, Python, UI/UX]**
-- 📫 ช่องทางการติดต่อ: **[อีเมล หรือ ลิงก์โซเชียลมีเดีย]**
-
----
-
-### 🛠️ เครื่องมือและภาษาที่ใช้ (Tech Stack)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode" />
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github" />
 </p>
 
----
-
-### 📊 สถิติบน GitHub (GitHub Stats)
+### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ใส่-USERNAME-ของคุณ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ใส่-USERNAME-ของคุณ&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ใส่-USERNAME-ของคุณ&show_icons=true&theme=tokyonight"/>
 </div>
